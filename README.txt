@@ -1,34 +1,65 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Software Engineering Website
 
+Welcome to the **Software Engineering Website**, accessible at [ngochung110.github.io/softwareEngineering](https://ngochung110.github.io/softwareEngineering/). This site serves the Software Engineering course for Computer Engineering students, Faculty of Electronics and Telecommunications, University of Danang - University of Science and Technology.
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+## Introduction
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This website introduces the team members, the Software Engineering course, and some projects we have undertaken during our studies. By exploring the site, you will gain a better understanding of our field of study and the learning environment we experience.
 
-(* = Not included)
+## Content
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+- **Software Engineering**: Provides information about software development stages, common development models, tools and technologies used in projects, as well as the roles of team members in the project.
 
-AJ
-aj@lkn.io | @ajlkn
+- **About Us**: Information about the team members, including:
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+  - **Trần Văn Sang**: A student of class 21KTMT, interested in playing football, traveling, and passionate about electronic components.
 
+  - **Tô Ngọc Hoàn**: A student of class 21KTMT, enjoys playing football, reading books, and has a keen interest in programming and networking knowledge.
 
-Credits:
+  - **Nguyễn Ngọc Hùng**: A student of class 21KTMT, passionate about microprocessors, embedded systems, and programming languages.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- **Contact**: Provides contact information for inquiries about projects, the curriculum, or about us.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Purpose
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+The website aims to:
+
+- Introduce the Software Engineering course and related projects.
+
+- Share experiences and knowledge in the field of Software Engineering.
+
+- Create a communication channel between the team and interested individuals.
+
+## Technologies Used
+
+- **HTML**: For structuring the website content.
+
+- **CSS**: For designing and layout of the website.
+
+- **JavaScript**: For adding interactive features (if any).
+
+## Contributions
+
+We welcome any contributions to improve the website. If you wish to contribute:
+
+1. Fork the repository.
+
+2. Make your changes.
+
+3. Submit a pull request for our review.
+
+## License
+
+This project is open-source and distributed under the [MIT License](LICENSE).
+
+---
+
+### Contact
+
+For any questions or suggestions, please contact:
+
+- **Email**: [dntienes@gmail.com](mailto:dntienes@gmail.com)
+
+- **Website**: [https://ngoctien.vercel.app/](https://ngoctien.vercel.app/)
+
+Thank you for visiting, and happy learning!
