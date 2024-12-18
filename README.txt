@@ -12,11 +12,11 @@ This website introduces the team members, the Software Engineering course, and s
 
 - **About Us**: Information about the team members, including:
 
-  - **Trần Văn Sang**: A student of class 21KTMT, interested in playing football, traveling, and passionate about electronic components.
+  - **Tran Van Sang**: A student of class 21KTMT, interested in playing football, traveling, and passionate about electronic components.
 
-  - **Tô Ngọc Hoàn**: A student of class 21KTMT, enjoys playing football, reading books, and has a keen interest in programming and networking knowledge.
+  - **To Ngoc Hoan**: A student of class 21KTMT, enjoys playing football, reading books, and has a keen interest in programming and networking knowledge.
 
-  - **Nguyễn Ngọc Hùng**: A student of class 21KTMT, passionate about microprocessors, embedded systems, and programming languages.
+  - **Nguyen Ngoc Hung**: A student of class 21KTMT, passionate about microprocessors, embedded systems, and programming languages.
 
 - **Contact**: Provides contact information for inquiries about projects, the curriculum, or about us.
 
