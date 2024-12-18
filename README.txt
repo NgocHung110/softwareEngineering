@@ -58,8 +58,6 @@ This project is open-source and distributed under the [MIT License](LICENSE).
 
 For any questions or suggestions, please contact:
 
-- **Email**: [dntienes@gmail.com](mailto:dntienes@gmail.com)
-
-- **Website**: [https://ngoctien.vercel.app/](https://ngoctien.vercel.app/)
+- **Email**: [nguyenngochung110@gmail.com]
 
 Thank you for visiting, and happy learning!
